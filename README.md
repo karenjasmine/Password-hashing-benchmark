@@ -11,4 +11,5 @@ Measured hashing time and memeory usage across multiple cost setting and passwor
 #How I ran it 
 
 1.Installed libraries: pip install bcrypt, hashlib, argon2=cffi
+
 2. Run: PythonValenzueal_Secure Password Storage Mechanisms
