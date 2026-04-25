@@ -1,5 +1,6 @@
 #Karen Valenzuela
 #Secure Password Storage Mechanisms
+
 This project compares three password hashing algorithm:
 Bcrypt, Scrypt, and Argon2
 
@@ -8,4 +9,4 @@ Measured hashing time and memeory usage across multiple cost setting and passwor
 
 #How I ran it 
 1.Installed libraries: pip install bcrypt, hashlib, argon2=cffi
-2. run: PythonValenzueal_Secure Password Storage Mechanisms
+2. Run: PythonValenzueal_Secure Password Storage Mechanisms
